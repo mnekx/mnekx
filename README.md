@@ -25,14 +25,12 @@ Here are some ideas to get you started:
 
 :telescope: I’m on the roadmap to becoming a full-stack software developer, at [Microverse inc](https://www.microverse.org/). My passion lies in coming up with great ideas and building something out of those ideas, as well as translating people's ideas into tangible solutions
 
-- 🔭 I’m currently working on my website. Stay tuned!
-- 🌱 I’m currently learning JavaScript
+- 🔭 I’m currently working and studying @microverseinc. Stay tuned!
 - 👯 I’m looking to collaborate on any exciting project
-- 🤔 I’m looking for help with advanced JavaScript concepts
 - 📫 You can reach me at [@chambuya](https://www.linkedin.com/in/mnemba-chambuya/)
-- 💬 Ask me about anything web development and martial arts
+- 💬 Ask me about anything web development and music
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I fancy the Lingala language.
+- ⚡ Fun fact: I play football.
 
 ### Languages
 
