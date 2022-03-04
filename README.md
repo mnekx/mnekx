@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 :telescope: I’m on the roadmap to becoming a full-stack software developer, at [Microverse inc](https://www.microverse.org/). My passion lies in helping companies serve customers and improve customer experience through Software Applications.
 
-- 🔭 I’m currently working and studying @microverseinc. Stay tuned!
+- 🔭 I’m currently working and studying @microverseinc.
 - 👯 I’m looking to collaborate on projects solving customer problems.
 - 📫 You can reach me at [@chambuya](https://www.linkedin.com/in/mnemba-chambuya/)
 - 💬 Ask me about anything software development and music.
