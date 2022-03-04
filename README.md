@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/mnekx/count.svg" />
 </p>
 
-A tech enthusiast with passion for programming and Front End web development.
+A tech enthusiast with passion for Software Development.
 
 <!--
 **mnekx/mnekx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
