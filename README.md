@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/mnekx/count.svg" />
 </p>
 
-A tech enthusiast with passion for Software Development.
+A software engineer fullstack backend-heavy.
 
 <!--
 **mnekx/mnekx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,19 +23,18 @@ Here are some ideas to get you started:
 ### Hello there, I'm Chambuya :wave:
 -->
 
-:telescope: I’m on the roadmap to becoming a full-stack software developer, at [Microverse inc](https://www.microverse.org/). My passion lies in helping companies serve customers and improve customer experience through Software Applications.
+:telescope: My urge to understand how things work made my passion in software and computing. 
 
-- 🔭 I’m currently working and studying @microverseinc.
-- 👯 I’m looking to collaborate on projects solving customer problems.
+- 🔭 I’m currently playing with blockchain technology.
+- 👯 I’m looking to collaborate on projects that imporves lives one way or another.
 - 📫 You can reach me at [@chambuya](https://www.linkedin.com/in/mnemba-chambuya/)
-- 💬 Ask me about anything software development and music.
+- 💬 Ask me about anything software development, football and blockchain.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I play football.
 
 ### Languages
 
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
-![Ruby](https://icongr.am/devicon/ruby-original.svg?size=50&color=currentColor)
 ![Python](https://icongr.am/devicon/python-original.svg?size=50&color=currentColor)
 
 ### Front End Development
@@ -45,6 +44,14 @@ Here are some ideas to get you started:
 ![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
 ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
 ![SAAS](https://icongr.am/devicon/sass-original.svg?size=50&color=currentColor)
+
+### Back End Development
+
+![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
+![Node.js](https://nodejs.dev/en/learn/)
+![Express.js](https://expressjs.com/)
+![Solidity](https://soliditylang.org/)
+![Python](https://www.python.org/)
 
 ### Github stats
 
