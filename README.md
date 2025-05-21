@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
 ![Node.js](https://nodejs.dev/en/learn/)
 ![Express.js](https://expressjs.com/)
-![Solidity](https://soliditylang.org/)
+![Typescript](https://https://www.typescriptlang.org/)
 ![Python](https://www.python.org/)
 
 ### Github stats
