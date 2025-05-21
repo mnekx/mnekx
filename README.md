@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
 ![Python](https://icongr.am/devicon/python-original.svg?size=50&color=currentColor)
-
+![Typescript](https://icons8.com/icon/Xf1sHBmY73hA/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo)
 ### Front End Development
 
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
